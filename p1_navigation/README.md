@@ -36,7 +36,8 @@ The task is episodic, and in order to solve the environment, your agent must get
 
 ### Instructions
 
-Follow the instructions in `Navigation.ipynb` to get started with training your own agent!  
+Follow the steps in `Navigation.ipynb` to instantiate the environment as well as the agent and then train the agent to
+solve the environment!  
 
 ### (Optional) Challenge: Learning from Pixels
 
